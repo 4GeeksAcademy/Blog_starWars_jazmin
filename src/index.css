@@ -1,0 +1,6 @@
+/* Importa Bootstrap CSS una sola vez */
+@import "bootstrap/dist/css/bootstrap.min.css";
+
+/* utilidades mínimas */
+img.object-cover { object-fit: cover; }
+.card-img-top { height: 220px; }
